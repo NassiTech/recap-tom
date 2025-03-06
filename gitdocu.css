@@ -1,0 +1,25 @@
+.contentContainer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.welcomeText {
+  color: red;
+}
+
+.gitDocuImage {
+
+  width: 1000px;
+  /*min-height: 50%;*/
+  height: auto;
+  background-color: blue;
+  padding: 32px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+
+
+
+}
