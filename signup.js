@@ -11,7 +11,7 @@ const onClickSignup = async () => {
   const familyName = document.getElementById("familyNameTextinput").value; // trim nimm Leerzeichen weg
 
   if (password !== repeatPassword) {
-    alert("Password do not match!");
+    alert("Passwords do not match!");
     return;
   }
 
